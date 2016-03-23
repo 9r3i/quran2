@@ -1,0 +1,29 @@
+@font-face{font-family:'lucida-calig';src:url('lcallig.ttf');}
+@font-face{font-family:'calibri';src:url('calibri.ttf');}
+@font-face{font-family:'times-new-roman';src:url('times.ttf');}
+@font-face{font-family:'Traditional Arabic';src:url('trado.ttf');}
+body{margin:0px;padding:0px;color:#333;font-family:'calibri';}
+#index{margin:0px;padding:0px;font-family:'calibri';}
+.daftar-selector{margin:0px;padding:10px;display:block;position:relative;background-color:#eed;border-bottom:2px solid #997;}
+#daftar_suroh,#daftar_locale{margin:5px;padding:1px;border:1px solid #999;display:inline-block;font-size:16px;font-family:'calibri';}
+#milari{margin:5px;padding:2px;border:1px solid #999;display:inline-block;font-size:16px;font-family:'calibri';width:150px;}
+#cari{display:inline-block;margin:0px;padding:0px;vertical-align:top;}
+#cariin{display:none;}
+#loader{display:none;height:32px;width:32px;background-image:url('orange-loading.gif');position:relative;margin:0px;padding:0px;}
+#title{display:inline-block;margin:0px 13px;padding:0px;font-family:'times-new-roman';font-size:31px;direction:rtl;float:right;color:#775;text-shadow:3px 3px 3px #775;font-weight:bold;}
+.isi-suroh{}
+#hasil_error{margin:0px;padding:10px;color:red;}
+#hasil{margin:0px;padding:0px;}
+.hasil-each{margin:0px;padding:10px;border-top:1px solid #bba;}
+.hasil-each:hover{background-color:#eed;}
+#suroh_name{font-family:'lucida-calig';font-size:25px;text-align:center;margin:10px 0px;padding:10px;}
+#ayat{margin:0px;padding:0px;}
+.ayat-each{margin:0px;padding:15px 10px 10px;border-top:1px solid #bba;}
+.each-locale{display:none;margin-top:5px;}
+#locale_arabic,#taud,#bismillah{font-family:'Traditional Arabic','times-new-roman';display:block;font-size:39px;direction:rtl;text-align:right;}
+#locale_tafsir{font-family:'Traditional Arabic','times-new-roman';font-size:27px;color:#777;direction:rtl;text-align:right;}
+#locale_english,#locale_indonesian,#locale_spanish,#locale_russian,#locale_french{font-family:'calibri';font-size:16px;direction:ltr;text-align:left;}
+#locale_chinese,#locale_japanese,#locale_korean{font-family:'calibri';font-size:21px;color:#555;direction:ltr;text-align:left;}
+#scroller{position:fixed;bottom:10px;right:10px;width:33px;height:33px;background-color:#ccb;cursor:pointer;display:none;text-align:center;padding:0px;margin:0px;font-size:33px;font-weight:normal;text-decoration:none;color:#775;border-radius:17px;box-shadow:0 0 1px #997;font-family:'calibri';}
+#scroller:hover{box-shadow:0 0 5px #997;color:#ffe;}
+#kaki{text-align:center;margin:0px;padding:15px;border-top:1px solid #bba;color:#775;text-shadow:1px 1px 3px #775;}
