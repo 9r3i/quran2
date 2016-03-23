@@ -76,7 +76,7 @@
       "french": "6. Guide-nous dans le droit chemin,"
     },
     {
-      "arabic": "٧.  \tصِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّي",
+      "arabic": "٧.  \tصِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
       "english": "7.  \tThe Way of those on whom You have bestowed Your Grace, not (the way) of those who earned Your Anger (such as the Jews), nor of those who went astray (such as the Christians).",
       "indonesian": "7. (yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat.",
       "japanese": "7. \u0026#12354;\u0026#12394;\u0026#12383;\u0026#12364;\u0026#24481;\u0026#24693;\u0026#12415;\u0026#12434;\u0026#19979;\u0026#12373;\u0026#12428;\u0026#12383;\u0026#20154;\u0026#12293;\u0026#12398;\u0026#36947;\u0026#12395;\u0026#65292;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12398;\u0026#24594;\u0026#12426;\u0026#12434;\u0026#21463;\u0026#12369;\u0026#12375;\u0026#32773;\u0026#65292;\u0026#12414;\u0026#12383;\u0026#36367;\u0026#12415;\u0026#36855;\u0026#12360;\u0026#12427;\u0026#20154;\u0026#12293;\u0026#12398;\u0026#36947;\u0026#12391;\u0026#12399;\u0026#12394;\u0026#12367;\u0026#12290;",
