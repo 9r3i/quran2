@@ -1,0 +1,140 @@
+{
+  "number": "101",
+  "name": "Al Qori\u0026apos;ah",
+  "taud": "﻿اعوذ بالله من الشيطان الرجيم",
+  "bismillah": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+  "ayat": [
+    {
+      "arabic": "﻿١.  \tالْقَارِعَةُ",
+      "english": "﻿1.  \tAl-Qâri\u0027ah (the striking Hour i.e. the Day of Resurrection),",
+      "indonesian": "1. Hari Kiamat,",
+      "japanese": "1. \u0026#24656;\u0026#12428;\u0026#25126;\u0026#12367;\u0026#26085;\u0026#65288;\u0026#26368;\u0026#24460;\u0026#12398;\u0026#23529;\u0026#21028;\u0026#65289;",
+      "korean": "1. 부활의 날",
+      "chinese": "1. 大難 ,",
+      "tafsir": "١. { القارعة } القيامة التي تقرع القلوب بأهوالها.",
+      "russian": "1. Великое бедствие (День воскресения)!",
+      "spanish": "1. ¡La Calamidad!",
+      "french": "1. Le fracas !"
+    },
+    {
+      "arabic": "٢.  \tمَا الْقَارِعَةُ",
+      "english": "2.  \tWhat is the striking (Hour)?",
+      "indonesian": "2. apakah hari Kiamat itu?",
+      "japanese": "2. \u0026#24656;\u0026#12428;\u0026#25126;\u0026#12367;\u0026#26085;\u0026#12392;\u0026#12399;\u0026#20309;\u0026#12363;\u0026#12290;",
+      "korean": "2. 부활의 날이 무엇이뇨",
+      "chinese": "2. 大難是什麼？",
+      "tafsir": "٢. { ما القارعة } تهويل لشأنها وهما مبتدأ وخبر القارعة.",
+      "russian": "2. Что такое Великое бедствие (День воскресения)?",
+      "spanish": "2. ¿Qué es la Calamidad?",
+      "french": "2. Qu\u0027est-ce que le fracas ?"
+    },
+    {
+      "arabic": "٣.  \tوَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "english": "3.  \tAnd what will make you know what the striking (Hour) is?",
+      "indonesian": "3. Tahukah kamu apakah hari Kiamat itu?",
+      "japanese": "3. \u0026#24656;\u0026#12428;\u0026#25126;\u0026#12367;\u0026#26085;\u0026#12364;\u0026#65292;\u0026#20309;\u0026#12391;\u0026#12354;\u0026#12427;\u0026#12363;\u0026#12434;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12395;\u0026#29702;\u0026#35299;\u0026#12373;\u0026#12379;\u0026#12427;\u0026#12418;\u0026#12398;\u0026#12399;\u0026#20309;\u0026#12363;\u0026#12290;",
+      "korean": "3. 부활의 날이 무엇인지 무엇이그대에게 설명하리요",
+      "chinese": "3. 你怎能知道大難是什麼？",
+      "tafsir": "٣. { وما أدراك } أعلمك { ما القارعة } زيادة تهويل لها وما الأولى مبتدأ وما بعدها خبره وما الثانية وخبرها في محل المفعول الثاني لأدرى.",
+      "russian": "3. Откуда ты мог знать, что такое Великое бедствие (День воскресения)?",
+      "spanish": "3. Y ¿cómo sabrás qué es la calamidad?",
+      "french": "3. Et qui te dira ce qu\u0027est le fracas ?"
+    },
+    {
+      "arabic": "٤.  \tيَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "english": "4.  \tIt is a Day whereon mankind will be like moths scattered about,",
+      "indonesian": "4. Pada hari itu manusia adalah seperti anai-anai yang bertebaran,",
+      "japanese": "4. \u0026#65288;\u0026#12381;\u0026#12428;\u0026#12399;\u0026#65289;\u0026#20154;\u0026#38291;\u0026#12364;\u0026#39131;\u0026#25955;\u0026#12377;\u0026#12427;\u0026#34558;\u0026#12398;\u0026#12424;\u0026#12358;\u0026#12395;\u0026#12394;\u0026#12427;\u0026#26085;\u0026#12290;",
+      "korean": "4. 그날은 인간이 나방처럼 흩어지는 날이며",
+      "chinese": "4. 在那日 ,眾人將似分散的飛蛾 ,",
+      "tafsir": "٤. { يوم } ناصبه دل عليه القارعة، أي تقرع { يكون الناس كالفراش المبثوث } كغوغاء الجراد المنتشر يموج بعضهم في بعض للحيرة إلى أن يُدعوا للحساب.",
+      "russian": "4. В тот день люди будут подобны рассеянным мотылькам,",
+      "spanish": "4. El día que los hombres parezcan mariposas dispersas",
+      "french": "4. C\u0027est le jour où les gens seront comme des papillons éparpillés,"
+    },
+    {
+      "arabic": "٥.  \tوَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+      "english": "5.  \tAnd the mountains will be like carded wool,",
+      "indonesian": "5. dan gunung-gunung adalah seperti bulu yang dihambur-hamburkan.",
+      "japanese": "5. \u0026#12414;\u0026#12383;\u0026#23665;\u0026#12293;\u0026#12364;\u0026#65292;\u0026#26803;\u0026#12363;\u0026#12428;\u0026#12383;\u0026#32650;\u0026#27611;\u0026#12398;\u0026#12424;\u0026#12358;\u0026#12395;\u0026#12394;\u0026#12427;\u0026#65288;\u0026#26085;\u0026#12391;\u0026#12354;\u0026#12427;\u0026#65289;\u0026#12290;",
+      "korean": "5. 산들은 가지런한 양털처럼 되는 날로",
+      "chinese": "5. 山岳將似疏松的釆絨。",
+      "tafsir": "٥. { وتكون الجبال كالعهن المنفوش } كالصوف المندوف في خفة سيرها حتى تستوي مع الأرض.",
+      "russian": "5. а горы будут подобны расчесанной шерсти.",
+      "spanish": "5. y las montañas copos de lana cardada,",
+      "french": "5. et les montagnes comme de la laine cardée;"
+    },
+    {
+      "arabic": "٦.  \tفَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+      "english": "6.  \tThen as for him whose balance (of good deeds) will be heavy,",
+      "indonesian": "6. Dan adapun orang-orang yang berat timbangan (kebaikan)nya,",
+      "japanese": "6. \u0026#12381;\u0026#12428;\u0026#12391;\u0026#65292;\u0026#12363;\u0026#12428;\u0026#12398;\u0026#31204;\u0026#12364;\u0026#65288;\u0026#21892;\u0026#34892;\u0026#12391;\u0026#65289;\u0026#37325;\u0026#12356;\u0026#32773;\u0026#12399;\u0026#65292;",
+      "korean": "6. 그날 그의 선행이 무거운 자 는",
+      "chinese": "6. 至於善功的份量較重者 ,",
+      "tafsir": "٦. { فأما من ثقلت موازينه } بأن رجحت حسناته على سيئاته.",
+      "russian": "6. Тогда тот, чья чаша Весов окажется тяжелой,",
+      "spanish": "6. entonces, el autor de obras de peso",
+      "french": "6. quant à celui dont la balance sera lourde"
+    },
+    {
+      "arabic": "٧.  \tفَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+      "english": "7.  \tHe will live a pleasant life (in Paradise).",
+      "indonesian": "7. maka dia berada dalam kehidupan yang memuaskan.",
+      "japanese": "7. \u0026#24184;\u0026#31119;\u0026#12391;\u0026#28288;\u0026#12385;\u0026#36275;\u0026#12426;\u0026#12390;\u0026#26286;\u0026#12425;\u0026#12377;\u0026#12391;\u0026#12354;\u0026#12429;\u0026#12358;\u0026#12290;",
+      "korean": "7. 안락한 삶을 영위할 것이나",
+      "chinese": "7. 將在滿意的生活中 ;",
+      "tafsir": "٧. { فهو في عيشة راضية } في الجنة، أي ذات رضى بأن يرضاها، أي مرضية له.",
+      "russian": "7. обретет приятную жизнь.",
+      "spanish": "7. gozará de una vida agradable,",
+      "french": "7. il sera dans une vie agréable;"
+    },
+    {
+      "arabic": "٨.  \tوَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "english": "8.  \tBut as for him whose balance (of good deeds) will be light,",
+      "indonesian": "8. Dan adapun orang-orang yang ringan timbangan (kebaikan)nya,",
+      "japanese": "8. \u0026#12384;\u0026#12364;\u0026#31204;\u0026#12398;\u0026#36605;\u0026#12356;\u0026#32773;\u0026#12399;\u0026#65292;",
+      "korean": "8. 그의 선행이 가벼운 자는",
+      "chinese": "8. 至於善功的份量較輕者 ,",
+      "tafsir": "٨. { وأما من خفَّت موازينه } بأن رجحت سيئاته على حسناته.",
+      "russian": "8. Тому же, чья чаша Весов окажется легкой,",
+      "spanish": "8. miemtras que el autor de obras ligeras",
+      "french": "8. et quant à celui dont la balance sera légère,"
+    },
+    {
+      "arabic": "٩.  \tفَأُمُّهُ هَاوِيَةٌ",
+      "english": "9.  \tHe will have his home in Hawiyah (pit, i.e. Hell)",
+      "indonesian": "9. maka tempat kembalinya adalah neraka Hawiyah.",
+      "japanese": "9. \u0026#22856;\u0026#33853;\u0026#12364;\u0026#65292;\u0026#12363;\u0026#12428;\u0026#12398;\u0026#37324;\u0026#12391;\u0026#12354;\u0026#12429;\u0026#12358;\u0026#12290;",
+      "korean": "9. 불지옥의 함정에 있게 되리라",
+      "chinese": "9. 他的歸宿是深坑。",
+      "tafsir": "٩. { فأمه } فمسكنه { هاوية } .",
+      "russian": "9. пристанищем будет Пропасть.",
+      "spanish": "9. tendrá un abismo por morada.",
+      "french": "9. sa mère [destination] est un abîme très profond."
+    },
+    {
+      "arabic": "١٠.  \tوَمَا أَدْرَاكَ مَا هِيَهْ",
+      "english": "10.  \tAnd what will make you know what it is?",
+      "indonesian": "10. Tahukah kamu apakah neraka Hawiyah itu?",
+      "japanese": "10. \u0026#12381;\u0026#12428;\u0026#12364;\u0026#20309;\u0026#12391;\u0026#12354;\u0026#12427;\u0026#12363;\u0026#12434;\u0026#65292;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12395;\u0026#29702;\u0026#35299;\u0026#12373;\u0026#12379;\u0026#12427;\u0026#12418;\u0026#12398;\u0026#12399;\u0026#20309;\u0026#12363;\u0026#12290;",
+      "korean": "10. 불지옥의 함정이 무엇인지 무엇이 그대에게 설명하려 주리요",
+      "chinese": "10. 你怎能知道深坑裏有什麼？",
+      "tafsir": "١٠. { وما أدراك ماهيه } أي ما هاوية.",
+      "russian": "10. Откуда ты мог знать, что это такое?",
+      "spanish": "10. Y ¿cómo sabrás qué es?",
+      "french": "10. Et qui te dira ce que c\u0027est ?"
+    },
+    {
+      "arabic": "١١.  \tنَارٌ حَامِيَةٌ",
+      "english": "11.  \t(It is) a fiercey blazing Fire!",
+      "indonesian": "11. (Yaitu) api yang sangat panas.",
+      "japanese": "11. \u0026#65288;\u0026#12381;\u0026#12428;\u0026#12399;\u0026#65289;\u0026#28966;\u0026#29105;\u0026#65288;\u0026#22320;\u0026#29508;\u0026#65289;\u0026#12398;\u0026#28779;\u0026#12290;",
+      "korean": "11. 그것은 격렬하게 타오르는 불지옥이라",
+      "chinese": "11. 有烈火。",
+      "tafsir": "١١. هي { نار حامية } شديدة الحرارة وهاء هيَهْ للسكت تثبت وصلا ووقفا وفي قراءة تحذف وصلاً.",
+      "russian": "11. Это - жаркий Огонь!",
+      "spanish": "11. ¡Un fuego ardiente!",
+      "french": "11. C\u0027est un Feu ardent."
+    }
+  ]
+}
