@@ -1,0 +1,140 @@
+{
+  "number": "093",
+  "name": "Adh Dhuha",
+  "taud": "﻿اعوذ بالله من الشيطان الرجيم",
+  "bismillah": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+  "ayat": [
+    {
+      "arabic": "﻿١.  \tوَالضُّحَىٰ",
+      "english": "﻿1.  \tBy the forenoon (after);",
+      "indonesian": "1. Demi waktu matahari sepenggalahan naik,",
+      "japanese": "1. \u0026#26397;\u0026#65288;\u0026#12398;\u0026#36637;\u0026#12365;\u0026#65289;\u0026#12395;\u0026#12362;\u0026#12356;\u0026#12390;\u0026#65292;",
+      "korean": "1. 아침을 두고 맹세하고",
+      "chinese": "1. 誓以上午，",
+      "tafsir": "١. { والضحى } أي أول النهار أو كله.",
+      "russian": "1. Клянусь утром!",
+      "spanish": "1. ¡Por la mañana!",
+      "french": "1. Par le Jour Montant !"
+    },
+    {
+      "arabic": "٢.  \tوَاللَّيْلِ إِذَا سَجَىٰ",
+      "english": "2.  \tBy the night when it darkens (and stands still).",
+      "indonesian": "2. dan demi malam apabila telah sunyi (gelap),",
+      "japanese": "2. \u0026#38745;\u0026#23490;\u0026#12394;\u0026#22812;\u0026#12395;\u0026#12362;\u0026#12356;\u0026#12390;\u0026#65288;\u0026#35475;\u0026#12358;\u0026#65289;\u0026#12290;",
+      "korean": "2. 어둠이 짙어지는 밤을 두고 맹세하사",
+      "chinese": "2. 誓以黑夜，當其寂靜的時候，",
+      "tafsir": "٢. { والليل إذا سجى } غطى بظلامه أو سكن.",
+      "russian": "2. Клянусь ночью, когда она густеет!",
+      "spanish": "2. ¡Por la noche cuando reina la calma!",
+      "french": "2. Et par la nuit quand elle couvre tout !"
+    },
+    {
+      "arabic": "٣.  \tمَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "english": "3.  \tYour Lord (O Muhammad (SAW)) has neither forsaken you nor hates you.",
+      "indonesian": "3. Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu.",
+      "japanese": "3. \u0026#20027;\u0026#12399;\u0026#65292;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12434;\u0026#35211;\u0026#25448;\u0026#12390;\u0026#12425;\u0026#12428;\u0026#12378;\u0026#65292;\u0026#24974;\u0026#12414;\u0026#12428;\u0026#12383;\u0026#35379;\u0026#12391;\u0026#12418;\u0026#12394;\u0026#12356;\u0026#12290;",
+      "korean": "3. 주님께서 그대를 버리지 아니했으며 미워하지도 않으시니라",
+      "chinese": "3. 你的主沒有棄絕你，也沒有怨恨你；",
+      "tafsir": "٣. { ما ودَّعك } تركك يا محمد { ربك وما قلى } أبغضك نزل هذا لما قال الكفار عند تأخر الوحي عنه خمسة عشر يوما: إن ربه ودَّعه وقلاهُ.",
+      "russian": "3. Не покинул тебя твой Господь и не возненавидел.",
+      "spanish": "3. Tu Señor no te ha abonadonado ni aborrecido",
+      "french": "3. Ton Seigneur ne t\u0027a ni abandonné, ni détesté."
+    },
+    {
+      "arabic": "٤.  \tوَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+      "english": "4.  \tAnd indeed the Hereafter is better for you than the present (life of this world).",
+      "indonesian": "4. Dan sesungguhnya hari kemudian itu lebih baik bagimu daripada yang sekarang (permulaan).",
+      "japanese": "4. \u0026#26412;\u0026#24403;\u0026#12395;\u0026#26469;\u0026#19990;\u0026#65288;\u0026#23558;\u0026#26469;\u0026#65289;\u0026#12399;\u0026#65292;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12395;\u0026#12392;\u0026#12387;\u0026#12390;\u0026#29694;\u0026#19990;\u0026#65288;\u0026#29694;\u0026#22312;\u0026#65289;\u0026#12424;\u0026#12426;\u0026#65292;\u0026#12418;\u0026#12387;\u0026#12392;\u0026#33391;\u0026#12356;\u0026#12398;\u0026#12391;\u0026#12354;\u0026#12427;\u0026#12290;",
+      "korean": "4. 실로 그대에게는 내세가 현세보다 나으리니",
+      "chinese": "4. 後世於你，確比今世更好；",
+      "tafsir": "٤. { وللآخرة خير لك } لما فيها من الكرامات لك { من الأولى } الدنيا.",
+      "russian": "4. Воистину, будущее для тебя лучше, чем настоящее.",
+      "spanish": "4. Sí, la otra vida será mejor para ti que ésta.",
+      "french": "4. La vie dernière t\u0027est, certes, meilleure que la vie présente."
+    },
+    {
+      "arabic": "٥.  \tوَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "english": "5.  \tAnd verily, your Lord will give you (all good) so that you shall be well-pleased.",
+      "indonesian": "5. Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu , lalu (hati) kamu menjadi puas.",
+      "japanese": "5. \u0026#12420;\u0026#12364;\u0026#12390;\u0026#20027;\u0026#12399;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12398;\u0026#28288;\u0026#36275;\u0026#12377;\u0026#12427;\u0026#12418;\u0026#12398;\u0026#12434;\u0026#24481;\u0026#25480;\u0026#12369;\u0026#12395;\u0026#12394;\u0026#12427;\u0026#12290;",
+      "korean": "5. 주님께서 그대에게 은혜를 베풀것이매 그대는 이로하여 기뻐하리라",
+      "chinese": "5. 你的主將來必賞賜你，以至你喜悅。",
+      "tafsir": "٥. ( ولسوف يعطيك ربك ) في الآخرة من الخيرات عطاء جزيلا ( فترضى ) به فقال صلى الله عليه وسلم : \u0022\u0022 إذن لا أرضى وواحد من أمتي في النار \u0022\u0022 إلى هنا تم جواب القسم بمثبتين بعد منفيين .",
+      "russian": "5. Господь твой непременно одарит тебя, и ты будешь удовлетворен.",
+      "spanish": "5. Tu Señor te dará y quedarás satisfecho.",
+      "french": "5. Ton Seigneur t\u0027accordera certes [Ses faveurs], et alors tu seras satisfait."
+    },
+    {
+      "arabic": "٦.  \tأَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "english": "6.  \tDid He not find you (O Muhammad (SAW)) an orphan and gave you a refuge?",
+      "indonesian": "6. Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
+      "japanese": "6. \u0026#12363;\u0026#12428;\u0026#12399;\u0026#23396;\u0026#20816;\u0026#12398;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12434;\u0026#35211;\u0026#20184;\u0026#12369;\u0026#12425;\u0026#12428;\u0026#65292;\u0026#24199;\u0026#35703;\u0026#12394;\u0026#12373;\u0026#12428;\u0026#12383;\u0026#12391;\u0026#12399;\u0026#12394;\u0026#12356;\u0026#12363;\u0026#12290;",
+      "korean": "6. 그분은 고아인 그대를 발견하여 그대를 보호하지 아니 했더뇨",
+      "chinese": "6. 難道他沒有發現你伶仃孤苦，而使你有所歸宿？",
+      "tafsir": "٦. { ألم يجدك } استفهام تقرير أي وجدك { يتيما } بفقد أبيك قبل ولادتك أو بعدها { فآوى } بأن ضمك إلى عمك أبي طالب.",
+      "russian": "6. Разве Он не нашел тебя сиротой и не дал тебе приют?",
+      "spanish": "6. ¿No te encontró huérfano y te recogió?",
+      "french": "6. Ne t\u0027a-t-Il pas trouvé orphelin ? Alors Il t\u0027a accueilli !"
+    },
+    {
+      "arabic": "٧.  \tوَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "english": "7.  \tAnd He found you unaware (of the Qur\u0027ân, its legal laws, and Prophethood) and guided you?",
+      "indonesian": "7. Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
+      "japanese": "7. \u0026#12363;\u0026#12428;\u0026#12399;\u0026#12373;\u0026#36855;\u0026#12387;\u0026#12390;\u0026#12356;\u0026#12383;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12434;\u0026#35211;\u0026#20184;\u0026#12369;\u0026#12390;\u0026#65292;\u0026#23566;\u0026#12365;\u0026#12434;\u0026#19982;\u0026#12360;\u0026#12290;",
+      "korean": "7. 그분은 방황하는 그대를 발견하여 그대를 인도하지 아니 했더 뇨",
+      "chinese": "7. 他曾發現你徘徊歧途，而把你引入正路；",
+      "tafsir": "٧. { ووجدك ضالا } عما أنت عليه من الشريعة { فهدى } أي هداك إليها.",
+      "russian": "7. Он нашел тебя заблудшим и повел прямым путем?",
+      "spanish": "7. ¿No te encontró extraviado y te dirigió?",
+      "french": "7. Ne t\u0027a-t-Il pas trouvé égaré ? Alors Il t\u0027a guidé."
+    },
+    {
+      "arabic": "٨.  \tوَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "english": "8.  \tAnd He found you poor, and made you rich (selfsufficient with selfcontentment)?",
+      "indonesian": "8. Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+      "japanese": "8. \u0026#12414;\u0026#12383;\u0026#36007;\u0026#12375;\u0026#12356;\u0026#12354;\u0026#12394;\u0026#12383;\u0026#12434;\u0026#35211;\u0026#20184;\u0026#12369;\u0026#12390;\u0026#65292;\u0026#35029;\u0026#31119;\u0026#12395;\u0026#12394;\u0026#12373;\u0026#12428;\u0026#12383;\u0026#12391;\u0026#12399;\u0026#12394;\u0026#12356;\u0026#12363;\u0026#12290;",
+      "korean": "8. 그분은 가난했던 그대를 부유하게 하여 주지 아니 했더뇨",
+      "chinese": "8. 發現你家境寒苦，而使你衣食豐足。",
+      "tafsir": "٨. ( ووجدك عائلا ) فقيرا ( فأغنى ) أغناك بما قنعك به من الغنيمة وغيرها وفي الحديث : \u0022\u0022 ليس الغني عن كثرة العرض ولكن الغني غني النفس \u0022\u0022 .",
+      "russian": "8. Он нашел тебя бедным и обогатил?",
+      "spanish": "8. ¿No te encontró pobre y te enriqueció?",
+      "french": "8. Ne t\u0027a-t-Il pas trouvé pauvre ? Alors Il t\u0027a enrichi."
+    },
+    {
+      "arabic": "٩.  \tفَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "english": "9.  \tTherefore, treat not the orphan with oppression,",
+      "indonesian": "9. Sebab itu, terhadap anak yatim janganlah kamu berlaku sewenang-wenang.",
+      "japanese": "9. \u0026#12384;\u0026#12363;\u0026#12425;\u0026#23396;\u0026#20816;\u0026#12434;\u0026#34384;\u0026#12370;\u0026#12390;\u0026#12399;\u0026#12394;\u0026#12425;\u0026#12394;\u0026#12356;\u0026#12290;",
+      "korean": "9. 그러므로 고아들을 거칠게 대하지말며",
+      "chinese": "9. 至於孤兒，你不要壓迫他；",
+      "tafsir": "٩. { فأما اليتيم فلا تقهر } بأخذ ماله أو غير ذلك.",
+      "russian": "9. Посему не притесняй сироту!",
+      "spanish": "9. En cuanto al huérfano, ¡no le oprimas!",
+      "french": "9. Quant à l\u0027orphelin, donc, ne le maltraite pas."
+    },
+    {
+      "arabic": "١٠.  \tوَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "english": "10.  \tAnd repulse not the beggar;",
+      "indonesian": "10. Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya.",
+      "japanese": "10. \u0026#35531;\u0026#12358;\u0026#32773;\u0026#12434;\u0026#25542;\u0026#12397;\u0026#20184;\u0026#12369;\u0026#12390;\u0026#12399;\u0026#12394;\u0026#12425;\u0026#12394;\u0026#12356;\u0026#12290;",
+      "korean": "10. 구하는 자에게 거절하지 말고",
+      "chinese": "10. 至於乞丐，你不要喝斥他，",
+      "tafsir": "١٠. { وأما السائل فلا تنهر } تزجره لفقره.",
+      "russian": "10. И не гони просящего!",
+      "spanish": "10. Y en cuanto al mendigo, ¡no le rechaces!",
+      "french": "10. Quant au demandeur , ne le repousse pas."
+    },
+    {
+      "arabic": "١١.  \tوَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "english": "11.  \tAnd proclaim the Grace of your Lord (i.e. the Prophethood and all other Graces).",
+      "indonesian": "11. Dan terhadap nikmat Tuhanmu, maka hendaklah kamu siarkan.",
+      "japanese": "11. \u0026#12354;\u0026#12394;\u0026#12383;\u0026#12398;\u0026#20027;\u0026#12398;\u0026#24681;\u0026#24693;\u0026#12434;\u0026#23459;\u0026#12409;\u0026#20253;\u0026#12360;\u0026#12427;\u0026#12364;\u0026#12356;\u0026#12356;\u0026#12290;",
+      "korean": "11. 그리고 주님의 은혜를 이야기 하라",
+      "chinese": "11. 至於你的主所賜你的恩典呢，你應當宣示它。",
+      "tafsir": "١١. { وأما بنعمة ربك } عليك بالنبوة وغيرها { فحدّث } أخبر، وحذف ضميره في بعض الأفعال رعاية للفواصل.",
+      "russian": "11. И возвещай о милости своего Господа.",
+      "spanish": "11. Y en cuanto a la gracia de tu Señor, ¡publícala!",
+      "french": "11. Et quant au bienfait de ton Seigneur, proclame-le."
+    }
+  ]
+}
